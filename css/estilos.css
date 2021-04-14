@@ -1,0 +1,27 @@
+body{
+
+}
+.main{    
+    width: 70%;
+    margin: 50px auto;
+    border :1px solid black;
+    padding : 10px;
+background-color:chartreuse;
+
+}
+h2{
+
+margin-top:0px;
+
+
+}
+
+
+.encabezado
+{
+background-color:darkgray;
+padding:20px;
+margin-bottom: 10px;
+font-size: 30px;
+
+}
